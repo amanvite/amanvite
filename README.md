@@ -1,16 +1,16 @@
-## Hi there 👋
+### About
 
-<!--
-**amanvite/amanvite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Freelance Web Developer & Lead at HavenSync
+- ~3 years across full-stack web development, custom UI components & digital tools
+- Also curious about native Android App Development & workflow automation
 
-Here are some ideas to get you started:
+### Side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[amanvite.in](amanvite.in)** — personal portfolio, built in Framer around a Walkman/cassette metaphor with a custom animated component
+- **DegreeByte.com** — developer resource hub for tech guides, coding tutorials, and web optimization
+- **Sia** — custom AI conversational companion web application, built with React and Vite
+
+### Find me
+
+- Portfolio: <a href="https://amanvite.in">amanvite.in</a>
+- Email: <a href="mailto:info.amanvite@gmail.com">info.amanvite@gmail.com</a>
