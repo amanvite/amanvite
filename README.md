@@ -6,7 +6,7 @@
 
 ### Side projects
 
-- **[amanvite.in](amanvite.in)** — personal portfolio, built in Framer around a Walkman/cassette metaphor with a custom animated component
+- **[amanvite.in](amanvite.in)** — personal portfolio
 - **DegreeByte.com** — developer resource hub for tech guides, coding tutorials, and web optimization
 - **Sia** — custom AI conversational companion web application, built with React and Vite
 
